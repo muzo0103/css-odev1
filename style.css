@@ -1,0 +1,39 @@
+*{
+    font-family:"Roboto", serif;
+}
+
+
+
+h2{
+    color: red;
+    text-align: center;
+}
+
+.menu{
+    list-style-position: inside;
+    display: flex;
+    align-items: center;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu li{
+    list-style: none;
+    margin-left: 20px;
+}
+
+ul{
+    justify-items: center;
+}
+
+.container{
+    
+    justify-items: center;
+    
+}
+.container .gitar img{
+    width: 300px;
+    height: 300px;
+}
